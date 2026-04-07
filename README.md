@@ -10,6 +10,7 @@ MVP de HR Analytics con Auditoría de Datos Integrada | Power BI, DAX &amp; ETL 
 * Resultado: Sistema escalable que identificó brechas de género en C-Level y riesgos de rotación crítica.
 
 Nota de Privacidad: Los datos personales (Nombres) han sido anonimizados para proteger la confidencialidad, manteniendo la integridad de las variables de salarios, fechas y demografía para fines de este estudio.
+
 ---
 
 ## 🛠️ Stack Tecnológico
