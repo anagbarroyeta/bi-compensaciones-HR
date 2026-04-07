@@ -39,6 +39,6 @@ Uso de Persistencia Histórica: El modelo calcula la plantilla activa en cualqui
 ---
 
 ## 🚀 Cómo utilizar este repositorio
-1. Descarga el archivo `.pbix` en la carpeta `/Report`.
+1. Descarga el archivo `.pbix` en la carpeta `/Dashboard`.
 2. Revisa la documentación en `/Documentation` para entender el proceso de normalización.
 3. El manual de actualización incluido permite escalar este modelo a cualquier nómina activa.
