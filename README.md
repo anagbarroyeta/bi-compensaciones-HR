@@ -3,6 +3,9 @@ MVP de HR Analytics con Auditoría de Datos Integrada | Power BI, DAX &amp; ETL 
 
 ![Dashboard Preview](https://github.com/anagbarroyeta/bi-compensaciones-HR/blob/main/Documentation/HR_Analytics%20%E2%80%93%20An%C3%A1lisis%20de%20Compensaciones.gif)
 
+▶️ [Ver demo completa](https://github.com/anagbarroyeta/bi-compensaciones-HR/raw/main/Documentation/HRAnalytics-Compensaciones.mp4)
+
+
 ## 📌 Resumen Ejecutivo
 * Desarrollo de un MVP (Mínimo Producto Viable) de HR Analytics con Auditoría de Datos Integrada.
 * Desafío: Normalizar una base de datos histórica (2007-2023) con inconsistencias de formato y lógica de negocio.
